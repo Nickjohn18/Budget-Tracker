@@ -5,6 +5,7 @@ const FILES_TO_CACHE = [
   "/",
   "/index.html",
   "/public/css/style.css",
+  "/public/js/idb.js",
   "/public/js/index.js",
   "/assets/css/style.css",
   "/public/icons/icon-72x72.png",
